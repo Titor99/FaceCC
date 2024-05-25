@@ -4,7 +4,7 @@
 ## Download CCPRF Dataset 
 百度网盘：https://pan.baidu.com/s/1pcGeYMf56VKyA3nHr-yvnw?pwd=ccpr 提取码：ccpr 
 
-GoogleDrive：
+GoogleDrive：https://drive.google.com/file/d/1HeWbZl1EH87fFQHQ3qn1ctmCG77XFcdE/view?usp=drive_link
 
 ## Download Pretained model 
 百度网盘：https://pan.baidu.com/s/19m328ZpjCbNpKXwLgYljfw?pwd=ccpr 提取码：ccpr 
@@ -13,7 +13,7 @@ GoogleDrive：https://drive.google.com/drive/folders/1toBy5-wSqEJLbkXGMfDthGSbGI
 
 Put pretained model file(resnet50-19c8e357.pth) into ‘imagenet’ folder
 
-Start with 'tarin.py'
+Start with 'train.py'
 
 Citation:
 
