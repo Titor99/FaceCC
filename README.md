@@ -9,9 +9,9 @@ GoogleDrive：
 ## Download Pretained model 
 百度网盘：https://pan.baidu.com/s/19m328ZpjCbNpKXwLgYljfw?pwd=ccpr 提取码：ccpr 
 
-GoogleDrive：https://drive.google.com/file/d/1e2inNeZ2pSzqoKRElLzaZIi_ugTKeJRO/view?usp=drive_link, https://drive.google.com/file/d/1LwS-ISyElcuiraXP669iu7EMP01QRpMt/view?usp=drive_link
+GoogleDrive：https://drive.google.com/drive/folders/1toBy5-wSqEJLbkXGMfDthGSbGIwSqhwT?usp=drive_link
 
-Put pretained model file(resnet50-19c8e357.pth) in ‘imagenet’ folder
+Put pretained model file(resnet50-19c8e357.pth) into ‘imagenet’ folder
 
 Start with 'tarin.py'
 
